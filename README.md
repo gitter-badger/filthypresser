@@ -1,5 +1,7 @@
 # filthypresser
 
+[![Join the chat at https://gitter.im/eleweek/filthypresser](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/eleweek/filthypresser?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This was a fun project for /r/thebutton 
 
 The button ended on after 1008316 clicks, at 05 Jun 21:50:55 UTC
